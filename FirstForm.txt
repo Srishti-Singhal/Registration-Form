@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Registration Form</title>
+</head>
+<body bgcolor="tan"><h1 align="center"><b>REGISTRATION FOR TEST</b></h1>
+<form><table>
+<tr><td>Name:</td>
+<td><input type="text" placeholder="Name"></td></tr>
+
+<tr><td>Password:</td>
+<td><input type="Password" placeholder="Password"></td></tr>
+
+<tr><td>Gender:</td>
+<td><input type="radio" name="gender">Male
+<input type="radio" name="gender">Female</td></tr>
+
+<tr><td>Email:</td>
+<td><input type="mail" placeholder="Email"></td></tr>
+
+<tr><td>Phone No:</td>
+<td><select><option>91</option>
+<option>62</option>
+<option>44</option>
+<option>98</option>
+<input type="number" placeholder="**********"></td></tr>
+
+<tr><td><input type="submit"></td></tr>
+
+
+
+
+<pre>
+<a href="mailto:srishtisinghal476@gmail.com?cc=anshikasinghal476@gmail.com&subject=Query Regarding Registration Form For Test">Contact Us<a/>
+</pre>
+
+
+</table>
+</form>
+</body>
+</html>
